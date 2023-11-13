@@ -3,4 +3,5 @@ body{
 }
 p{
     display: flex;
+    font-family: 'Courier New', Courier, monospace;
 }
