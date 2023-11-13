@@ -1,13 +1,8 @@
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
 p{
     display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
 }
-
-footer{
-    display: flex;
-    justify-content: space-around;
-}
-
